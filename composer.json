@@ -13,7 +13,6 @@
   },
   "require": {
     "php": ">=5.4.19",
-    "twig/twig": "~1.17",
-    "zendesk/zendesk_api_client_php": "dev-master#034983456ce8d75e69507f8d79ba297f23819b8d as 1.0.0"
+    "twig/twig": "~1.17"
   }
 }
