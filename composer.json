@@ -13,6 +13,7 @@
   },
   "require": {
     "php": ">=5.4.19",
-    "twig/twig": "~1.17"
+    "twig/twig": "~1.17",
+    "guzzlehttp/guzzle": "~5.1.0"
   }
 }
