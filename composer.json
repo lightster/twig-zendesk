@@ -12,9 +12,9 @@
     }
   },
   "autoload-dev": {
-    "psr-0": [
-        "tests/"
-    ],
+    "psr-0": {
+        "Lstr\\": "src/"
+    }
   },
   "require": {
     "php": ">=5.4.19",
